@@ -4,37 +4,37 @@ modList:
 - name: SkyUI 5_3_SE
   url: null
 - name: UIExtensions
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/17561
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/17561
 - name: Address Library for SKSE Plugins
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/32444
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/32444
 - name: Payload Interpreter
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/65089
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/65089
 - name: JContainers SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/16495
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/16495
 - name: powerofthree's Tweaks
   url: null
 - name: powerofthree's Papyrus Extender
   url: null
 - name: SSE Display Tweaks
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/34705
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/34705
 - name: Recursion Fix
   url: null
 - name: MergeMapper
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/74689
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/74689
 - name: Keyword Item Distributor
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/55728
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/55728
 - name: Animation Queue Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/82395
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/82395
 - name: HighPitchFemaleShoutSound
   url: null
 - name: USSEP - Japanese Voice Edit
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/11009
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/11009
 - name: FileAccess Interface for Skyrim SE Scripts - FISSES
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/13956
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/13956
 - name: IFrame Generator RE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/74401
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/74401
 - name: Base Object Swapper
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/60805
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/60805
 - name: Spell Perk Item Distributor - SSE
   url: null
 - name: (Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97
@@ -48,45 +48,45 @@ modList:
 - name: Fuz Ro D'oh silent voice
   url: null
 - name: Dynamic Collision Adjustment
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/76783
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/76783
 - name: ENB Light Inventory Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/55582
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/55582
 - name: Animation Motion Revolution
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/50258
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/50258
 - name: A Matter of Time - A HUD clock widget
-  url: https://www.nexusmods.com//skyrim/mods/44091
+  url: https://www.nexusmods.com/skyrim/mods/44091
 - name: Customizable UI Replacer SkyHUD SE
   url: null
 - name: SkyHUD
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/463
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/463
 - name: moreHUD SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/12688
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/12688
 - name: Infinity UI
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/74483
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/74483
 - name: AddItemMenu - Ultimate Mod Explorer
-  url: https://www.nexusmods.com//skyrim/mods/64905
+  url: https://www.nexusmods.com/skyrim/mods/64905
 - name: PapyrusUtil SE - Modders Scripting Utility Functions
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/13048
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/13048
 - name: Mfg Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/11669
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/11669
 - name: Alternate Start - Live Another Life
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/272
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/272
 - name: Alternate Start SSE - Japanese Voice Patch 4.0.3
   url: null
 - name: Alternate Start Position Tweak
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/18582
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/18582
 - name: NetScriptFramework SkyrimSE
   url: null
 - name: Sound Record Distributor
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/77815
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/77815
 - name: Lucidity Sound FX v2u
   url: null
 - name: Reverb Interior Sounds Expansion
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/77947
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/77947
 - name: ConsoleUtilSSE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/24858
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/24858
 - name: Customizable Camera
-  url: https://www.nexusmods.com//skyrim/mods/37347
+  url: https://www.nexusmods.com/skyrim/mods/37347
 - name: Ordinator 9.31.0
   url: null
 - name: SkyrimUncapperFixed
@@ -94,91 +94,91 @@ modList:
 - name: Skyrim Skill Uncapper v1.1 - Ordinator (Mod Managers)
   url: null
 - name: MCM Helper SE
-  url: https://www.nexusmods.com//enderalspecialedition/mods/466
+  url: https://www.nexusmods.com/enderalspecialedition/mods/466
 - name: Nemesis
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/60033
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/60033
 - name: Slow Sprint Bug Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/57245
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/57245
 - name: Movement Behavior Overhaul SE
   url: null
 - name: TDM MBO Patch - With animations
   url: null
 - name: VioLens - A Killmove Mod SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/668
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/668
 - name: Modpocalypse NPCs - Resources
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/54421
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/54421
 - name: High Poly Head SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/65446
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/65446
 - name: Detection Meter-v0.16-SE
   url: null
 - name: Expressive Facegen Morphs SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/35785
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/35785
 - name: QuickLootRE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/39045
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/39045
 - name: DAR-PCEA for Skyrim SE
   url: null
 - name: Enhanced Character Edit
-  url: https://www.nexusmods.com//skyrim/mods/12951
+  url: https://www.nexusmods.com/skyrim/mods/12951
 - name: NetImmerse Override
-  url: https://www.nexusmods.com//skyrim/mods/37481
+  url: https://www.nexusmods.com/skyrim/mods/37481
 - name: Oxygen Meter 2 SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/83701
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/83701
 - name: RaceMenu
-  url: https://www.nexusmods.com//skyrim/mods/29624
+  url: https://www.nexusmods.com/skyrim/mods/29624
 - name: RaceMenu High Heels
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/18045
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/18045
 - name: HDTSSE Physics High Heels Framework 1 5 97
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/31021
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/31021
 - name: Heels Sound 1.5 SSE
   url: null
 - name: Enhanced Blood Textures
-  url: https://www.nexusmods.com//skyrim/mods/60
+  url: https://www.nexusmods.com/skyrim/mods/60
 - name: Realistic Ragdolls and Force
-  url: https://www.nexusmods.com//skyrim/mods/601
+  url: https://www.nexusmods.com/skyrim/mods/601
 - name: XP32 Maximum Skeleton Special Extended 4.80
   url: null
 - name: XPMSSE - Nemesis - Script Fix - SE
   url: null
 - name: XPMSSE Left Hand Skeleton Rotation Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/92620
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/92620
 - name: Optimised Scripts for XPMSSE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/82774
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/82774
 - name: CBPC - Physics with Collisions
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/21224
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/21224
 - name: Caliente's Beautiful Bodies Enhancer -CBBE-
   url: null
 - name: Faster HDT-SMP
   url: null
 - name: CBBE 3BA
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/30174
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/30174
 - name: Unequip Quiver SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/44031
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/44031
 - name: BodySlide and Outfit Studio
-  url: https://www.nexusmods.com//fallout4/mods/25
+  url: https://www.nexusmods.com/fallout4/mods/25
 - name: No Spinning Death Animation
-  url: https://www.nexusmods.com//skyrim/mods/17214
+  url: https://www.nexusmods.com/skyrim/mods/17214
 - name: PC Head Tracking and Voice Type SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/11993
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/11993
 - name: Cathedral - Weathers
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/24791
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/24791
 - name: OnHit Animations Framework - NG
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/69298
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/69298
 - name: Better Jumping SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/18967
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/18967
 - name: Dynamic Animation Replacer
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/33746
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/33746
 - name: EVG Animation Variance
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/38534
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/38534
 - name: ENB Helper SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/23174
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/23174
 - name: Old Skyrim SE Shader Bundle to fix SSS in ENB on SSE 1.5.80
   url: null
 - name: Face Light SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/5965
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/5965
 - name: 360 Walk and Run Plus SSE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/7446
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/7446
 - name: KS Hairdos SSE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/6817
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/6817
 - name: SG Hair Pack 268 SE
   url: null
 - name: Tullius Hair Pack 2.0 v12.3
@@ -188,87 +188,87 @@ modList:
 - name: KS Hairdos - HDT SMP (Physics)New
   url: null
 - name: CBPC Equipment Physics
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/58990
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/58990
 - name: Tullius Wig Pack V3
   url: null
 - name: YunDao HDT Hair SSE 4.9.2
   url: null
 - name: The Pure - CBBE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/20583
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/20583
 - name: orientalbrow
   url: null
 - name: RYAmakeup
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/22538
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/22538
 - name: The Eyes Of Beauty SSE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/16185
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/16185
 - name: Better Females Eyebrows - Standalone
-  url: https://www.nexusmods.com//skyrim/mods/50302
+  url: https://www.nexusmods.com/skyrim/mods/50302
 - name: SG Female Eyebrows
-  url: https://www.nexusmods.com//skyrim/mods/35327
+  url: https://www.nexusmods.com/skyrim/mods/35327
 - name: Pretty Combat Animations
-  url: https://www.nexusmods.com//skyrim/mods/15703
+  url: https://www.nexusmods.com/skyrim/mods/15703
 - name: [Christine] Nocturnal Underboob (Physics - CBBE SMP - 3BA)
   url: null
 - name: Particle Patch for ENB
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/65720
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/65720
 - name: Immersive The Elder Scrolls Lore Loading Screen
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/29736
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/29736
 - name: Static Mesh Improvement Mod
-  url: https://www.nexusmods.com//skyrim/mods/8655
+  url: https://www.nexusmods.com/skyrim/mods/8655
 - name: Solstheim Objects SMIMed - High Poly Dark Elf Furniture
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/53779
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/53779
 - name: Dark Elf Lantern ENB Light
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/63176
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/63176
 - name: Unofficial Material Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/21027
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/21027
 - name: 3D Solitude Trellis
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/42472
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/42472
 - name: HD Photorealistic Ivy
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/10305
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/10305
 - name: Powdery Bone Meal SE
   url: null
 - name: High Poly Project 2
   url: null
 - name: slightly Better Small Antlers
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/83672
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/83672
 - name: Forgotten Retex Project
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/7849
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/7849
 - name: New Tasty Food
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/67367
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/67367
 - name: Skyrim 3D Misc
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/20829
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/20829
 - name: Better Bread 1K Optimised SSE Version
   url: null
 - name: Boiled Creme Treat Sweet Roll and Pies
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/9034
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/9034
 - name: Rudy HQ - Miscellaneous SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/19867
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/19867
 - name: Rudy HQ - Miscellaneous SE patch
   url: null
 - name: WeldingMans Enchanting Tables Variants (BOS) - Beta
   url: null
 - name: Vanilla Table Replacers
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/33041
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/33041
 - name: Vanilla Table Replacers No ropes
   url: null
 - name: RUSTIC CLOTHING - Special Edition
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/4703
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/4703
 - name: Deadly Spell Impacts
-  url: https://www.nexusmods.com//skyrim/mods/2947
+  url: https://www.nexusmods.com/skyrim/mods/2947
 - name: KD - Realistic Fireplaces SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/29376
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/29376
 - name: KD - Realistic Fireplaces - Charred Logs 2K
   url: null
 - name: Embers HD
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/14368
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/14368
 - name: Inferno - Fire Effects Redux
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/29316
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/29316
 - name: Skyrim 3D Blacksmith
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/22892
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/22892
 - name: RUGNAROK - Special Edition
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/5436
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/5436
 - name: PELTAPALOOZA - Special Edition
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/5442
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/5442
 - name: Peltapalooza - Parallax Occlusion - FULL
   url: null
 - name: Pelts - Complex Parallax Occlusion 2k
@@ -276,17 +276,17 @@ modList:
 - name: Skyland AIO 1k
   url: null
 - name: Enhanced Lights and FX
-  url: https://www.nexusmods.com//skyrim/mods/27043
+  url: https://www.nexusmods.com/skyrim/mods/27043
 - name: ELFX Water for ENB patch
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/73583
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/73583
 - name: ELFX Dwemer Floor Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/27084
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/27084
 - name: ELFX - Exteriors Fixes for ENB users
   url: null
 - name: ELFX Fixes
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/25498
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/25498
 - name: ELFX Cave Cliff Mesh Fix
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/67918
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/67918
 - name: Praedy's Fort Dawnguard - SE
   url: null
 - name: Castle Volkihar HD - SE 2K
@@ -304,53 +304,53 @@ modList:
 - name: CleverCharff's Apocrypha 2K
   url: null
 - name: Mountain flower by Mari SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/35102
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/35102
 - name: RUSTIC DRAGON CORPSE SSE - 2K
   url: null
 - name: LeanWolf betterLongArrow
   url: null
 - name: Iron Armors and Weapons Retexture SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/84978
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/84978
 - name: Crusty Loaves SSE - 2k Bread Retextures
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/27003
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/27003
 - name: Bowlegged jump animation fix
-  url: https://www.nexusmods.com//skyrim/mods/7416
+  url: https://www.nexusmods.com/skyrim/mods/7416
 - name: JS Lockpicking UI SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/22160
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/22160
 - name: RUSTIC WINDOWS - Special Edition
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/1937
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/1937
 - name: Rudy HQ - Nordic Ruins SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/19365
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/19365
 - name: Blacksmith Forge Water Fix - Special Edition
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/1291
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/1291
 - name: DAR - Diverse Random idle
   url: null
 - name: DAR - Diverse Random TK Dodge (Stamina Penalty)
   url: null
 - name: No magic ninja ai dodge - Slower Mage Backward Sprinting
-  url: https://www.nexusmods.com//skyrim/mods/49808
+  url: https://www.nexusmods.com/skyrim/mods/49808
 - name: Immersive Impact Redux
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/60934
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/60934
 - name: Vindictus Crystal Rose CBBE SE HDT-SMP
   url: null
 - name: Expressive Facial Animation - Female Edition
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/19181
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/19181
 - name: Trade and Barter SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/57926
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/57926
 - name: JS Purses and Septims SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/37306
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/37306
 - name: MiniBikini_ SE
   url: null
 - name: Basic Dining Set Replacer 1k
   url: null
 - name: Cathedral - 3D Mountain Flowers
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/41312
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/41312
 - name: Nordic Beds SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/38733
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/38733
 - name: Unmarked Locations Pack
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/82662
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/82662
 - name: Underground - a dungeon texture overhaul
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/14365
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/14365
 - name: Dwemer Pipework Reworked 4
   url: null
 - name: Venerable Nordic Temples - Standard
@@ -358,35 +358,35 @@ modList:
 - name: Enhanced Textures Detail (UV-tweaks)
   url: null
 - name: Cave Parallax 2k
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/83106
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/83106
 - name: Mrf's Farmhouse 1k
   url: null
 - name: Glorious Doors of Skyrim (GDOS)
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/32376
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/32376
 - name: Better Dynamic Snow SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/9121
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/9121
 - name: Simplicity of Snow
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/56235
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/56235
 - name: Simplicity of Majestic Mountains Patch
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/84042
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/84042
 - name: Simplicity of Snow - Blended Roads Patch
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/59282
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/59282
 - name: DOA Beach Collection SMP (Physics - CBBE SMP - 3BA)
   url: null
 - name: Ryan Reos High Priestess - CBBE 3BA SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/43420
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/43420
 - name: Obsidian Mountain Fogs 1.01.zip
   url: null
 - name: Morning Fogs SSE - Thin Fog
   url: null
 - name: Blended Roads
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/8834
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/8834
 - name: Northern Roads
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/77530
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/77530
 - name: Northern Roads Patch Collection
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/77386
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/77386
 - name: Bent Pines II
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/8306
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/8306
 - name: Stoneheart Jewelry SSE 2K version
   url: null
 - name: Ave's Skyring
@@ -400,15 +400,15 @@ modList:
 - name: Scarecrows of Skyrim - Helmet
   url: null
 - name: Animated Armoury
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/35978
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/35978
 - name: GomaPeroPoses_SE
   url: null
 - name: PreGPPose SE
   url: null
 - name: Goetia Animations - Enchanted Staves
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/71110
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/71110
 - name: Goetia Animations - Conditional Shouts
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/76388
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/76388
 - name: Smooth Combat Non Combat Animation System
   url: null
 - name: Smooth Magic Casting Idle Animation ver.2
@@ -416,45 +416,45 @@ modList:
 - name: Smooth Magic Casting Animation 3.2
   url: null
 - name: Smooth Magic Casting Animation
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/45799
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/45799
 - name: Smooth Random Magic idle Animation 2.0
   url: null
 - name: Smooth Combat Animation using a staff as a shield
   url: null
 - name: Smooth Random Jump Animation
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/59633
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/59633
 - name: Smooth Magic Knight Animation 2.1
   url: null
 - name: Smooth Random Sprint Animation
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/46193
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/46193
 - name: Milkmaid Outfit - CBBE 3BA SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/44980
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/44980
 - name: TAWOBA REMASTERED CBBE SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/88078
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/88078
 - name: aMidianBorn Book of Silence SE -- COMPLETE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/66893
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/66893
 - name: DovahBlingJewelryReplacer
   url: null
 - name: Operator [SE] - CBBE
-  url: https://www.nexusmods.com//fallout4/mods/50475
+  url: https://www.nexusmods.com/fallout4/mods/50475
 - name: Dark Disciple [SE] - CBBE - BHUNP
   url: null
 - name: Bears of the North
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/47541
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/47541
 - name: Immersive Interactions - Animated actions
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/47670
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/47670
 - name: Bora Follower (CBBE) SSE v1.01
   url: null
 - name: MiniMap v1.0.1 for SkyrimSE
   url: null
 - name: Alternate Conversation Camera
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/21220
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/21220
 - name: COCO RONIN - CBBE SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/47462
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/47462
 - name: COCO Succubus - CBBE SE
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/49969
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/49969
 - name: Simple Dual Sheath
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/50049
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/50049
 - name: SSE_My enemy Bandit NO esp 2.54
   url: null
 - name: Improved Bards 1.3 - CBBE
@@ -468,7 +468,7 @@ modList:
 - name: Apocalypse v945
   url: null
 - name: Apocalypse - Ordinator Compatibility Patch
-  url: https://www.nexusmods.com//skyrim/mods/105591
+  url: https://www.nexusmods.com/skyrim/mods/105591
 - name: Smooth Random Blocking Animation 3.2
   url: null
 - name: non-combat sneak idle
@@ -478,13 +478,13 @@ modList:
 - name: ESL High Poly Pretty Face and Darker Brows St
   url: null
 - name: Better Third Person Selection (SE)
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/64339
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/64339
 - name: SCAR - Skyrim Combos AI Revolution
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/72014
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/72014
 - name: Shoot Straight
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/4497
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/4497
 - name: One Click Power Attack
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/60878
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/60878
 - name: oneclickmodified v1.1.3
   url: null
 - name: dTry's Key Utils SE
@@ -494,7 +494,7 @@ modList:
 - name: Infinity Dodge DMCo anim replacer
   url: null
 - name: DMCO Sound Replacer DS1
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/78221
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/78221
 - name: Formless Mist Max - DAC
   url: null
 - name: Clothes Pack 5 by DonEb14n -2K-
@@ -514,7 +514,7 @@ modList:
 - name: Praedy's Gemstones Replacers HD SE
   url: null
 - name: ENB Particle Lights for Gemstones
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/57672
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/57672
 - name: CatHub SE
   url: null
 - name: KillmoveParalysisFix SE
@@ -522,28 +522,28 @@ modList:
 - name: Post-hit Killmove SE
   url: null
 - name: Cathedral - 3D Lavender
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/68310
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/68310
 - name: Cathedral - 3D Thistle
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/67619
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/67619
 - name: Cathedral - 3D Tundra Cotton
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/68068
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/68068
 - name: Cathedral - 3D Clovers
   url: null
 - name: Cathedral - 3D Deathbell
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/76460
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/76460
 - name: Cathedral - 3D Snow Berries - Green
   url: null
 - name: Cathedral - 3D Nightshade
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/81284
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/81284
 - name: Cathedral - 3D Sword Ferns
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/82978
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/82978
 - name: The Omnibus Ground parallax texture - 2k
   url: null
 - name: SparklesSE
   url: null
 - name: Seriously Improved Sparks
-  url: https://www.nexusmods.com//skyrimspecialedition/mods/61478
+  url: https://www.nexusmods.com/skyrimspecialedition/mods/61478
 - name: Madd Haven
-  url: https://www.nexusmods.com//skyrim/mods/34251
+  url: https://www.nexusmods.com/skyrim/mods/34251
 - name: 
   url: null

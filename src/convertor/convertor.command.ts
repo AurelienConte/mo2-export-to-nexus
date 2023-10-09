@@ -44,7 +44,7 @@ export class ConvertorCommand extends CommandRunner {
 		this.logger.log(`File converted, saving...`);
 
 		const header = 'modList:\n'
-		const lineContent = outputFilContent.map(mod => `- name: ${mod.name}\n  url: ${mod.url ? 'https://www.nexusmods.com/' + mod.url : 'null'}`).join('\n');
+		const lineContent = outputFilContent.map(mod => `- name: ${mod.name}\n  url: ${mod.url ? 'https://www.nexusmods.com' + mod.url : 'null'}`).join('\n');
 
 		fs.writeFileSync(outputPath,
 			header + lineContent,
