@@ -21,5 +21,19 @@ export type NexusModSearch = {
 
 export type ModLinkList = Array<{
 	name: string
+	query: string
+	nexusModName: string
 	url: string
 }>
+
+export const blacklistedWords = [
+	'and',
+	'for',
+	'of',
+	'the',
+	'with',
+	'without',
+	'from',
+	'sse',
+	'skyrim'
+];

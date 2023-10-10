@@ -235,12 +235,194 @@
 +Bijin Warmaidens SE v3.1.3
 +Bijin NPCs SE 1.2.1
 +Bijin Wives SE 1.1.2
++Pandorable's NPCs - Males
++Pandorable's NPCs - Males 2
++Pandorable's NPCs - Dragonborn
++Pandorable's NPCs - Dawnguard SE - USSEP
++Pandorable's NPCs
++College of Winterhold Re-Imagined
++Seniors Wear Vanilla Special Edition
++GLAM Haelga - fixed
++GLAM Astrid Gabriella - CBBE
++GLAM Elenwen
++GLAM Svana replacer
++GLAM Angi
++Serana Re-Imagined
++Valerica Re-Imagined
++Project Cougar - Fralia Greymane
++Project Cougar - Lillith Maiden-Loom
++Project Cougar - Hilde
++Project Cougar - Inge Six-Fingers
++Project Cougar - Anise
++Project Cougar - Idgrod the Younger
++BB's Nocturnal
++[Ichirou]_HDT_Accessories
++[COCO][GIFT]Vamp_Dress_CBBE_SE
++[COCO]Goddess_War_V1_CBBE_SE
++[COCO]JoanOfArc_Full_CBBE_3BA_BS_SE
++[COCO]_Snow_Queen_Full_CBBE_3BA_BS_SE
++[COCO]_Mulan_SE_SMP_CBBE_3BA_BS
++[COCO]_Deliciously_Bride_Full
++[COCO]Shadow assassin_SSE
++[COCO]_Witchiness_Full_CBBE_3BA_SE (1)
++[COCO] 2B Wedding Outfit - CBBE SE
++[COCO] Battle Angels skimpy
++CBBE [Klear] Odin Vahalla Rising Rogue 4002 3BA SMP
++[immyneedscake] RyanReos Bladedancer Mercenary
++CBBE 3BA - Aradia Secretary
++H2135's Fantasy Series 8 [SE] - 3BA
++[Melodic] Hot Pajama
++Odd - Demon Seducer Outfit CBBE 3BA
++Clothes Pack 4 by DonEb14n SSE - 3BA
++Calamity Queller - Standalone Weapon
++[Caenarvon] Spindrift Knight
++[Caenarvon] Stargazer - hdt SMP
++[Caenarvon] FreeSyle3BA
++OVR Elf CBBE
++[RB] Barbarian Set - CBBE-TBD SE
++RB's set N4 CBBE 3BA BodySlide
++RB's set N2 CBBE 3BA BodySlide
++Anchor animation DAR SE
++Dawnbreaker Reborn
++HD Hand Made Signs Project Overhaul 1K
++Bellyaches Animal and Creature Pack
++Underwear for NPCs
++Picta Series - A Critters Life
++Retexture for The Scroll
++Go to bed
++Dagger unequip DAR Version
++Eating Animations And Sounds SE
++Eating animations - My HD version SE
++Eating animations - TB's Better Bread patch
++Immersive Sounds - Compendium
++ImmersiveSoundsCompendium EBT Patch
++TB's Improved Book Sounds - Full
++Airgetlam -Modern Magic Sounds Rework-
++3rd Person Camera Stagger Remover
++Unlimited Shouting
++Encounter Zones Unlocked SE
++Hand placed enemies
++Attack MCO-DXP
++Attack - No Directional Power Attacks
++Singularity
++Odin Valhalla rising Female default cloth 3BA V2
++Skyrim's Paraglider
++UnderdogAnimation
++Potion Mixer
++Leaps of Faith
++JS Barenziah SE - 2K Textures
++True Directional Movement
++TrueHUD
++Vanguard v2.2 bash_behavior
+-eFPS - Exterior FPS boost
++Smooth Moveset
++Smooth Staff Animation
++WalkRunAnimation
++SoulsborneSoundFX
++Bleeding Edge
++Bleeding Edge - Greatsword Alternative
++ElSopa - Animated Colored SkyUI Widgets
++Japanese Font Library - Kawaii
++Around the Fire
++Splashes of Skyrim
++BDOR Pack by TeamTAL v2.0
++Lockpick
++TK dadge sound For True Directional Movement
++Cosmo - Spear Fantasy
++Disable NPC stretching idle
++Improved River Sound
++Immersive Dragon Sounds v4.3.1
++Baka Crossbow - Gun motion [SE]
++Fantasy Soundtrack Project SE
++SSIRT v4.1
++FlufyFox_Poser_SE
++The Ultimate Sit Animation (All Females)
++JS Dragon Claws AE Anniversary Edition
++Water in Wells - mesh-only animated wells
++Realistic Boat Bobbing SE
++RBB - SMIM Meshes
++Seagulls of Skyrim - ESL
++Fluffworks Medium
++2k-4k. New Statue of Shalidor. Version 1B
++2k NocturnalStatue
++2-4k. New Dibella Statues 2.0
++Optional Dibella Statue Fixes
++2K. New Mara Statue SE
++Elizabeths tower
++2k-4K. Shrine of Azura 2.0. Ver.1 Dirt Low
++2K. Dawnbreaker Pedestal Meridia Retexture. Clean
++2k-4k. New Shrine of Boethiah SE
++Shrine of Meridia 2k
++New Mara Bowl Replacer
++Mutilator SE
++Dissidia Materia Set [Animate Outfit Series] Xing
++Chillwind Depths CTD Fix
++Stagger Direction Fix-SSE V2.02a
++Ultimate Combat SE
++Ultimate Combat and Creatures Behaviour compatibility for Nemesis
++zxlice's ultimate potion animation
++Valhalla Combat
++Precision
++More Informative Console 0.43
++Dear Diary Dark Mode (white text)
++Compass Navigation Overhaul
++Untarnished UI
+-Vibrant Map Markers
++anchor Riding combat SE
++Knight Charge - v0.1 SSE
++Dual Wield Parrying Reimplementation for SSE
++Footsteps Sounds Overhaul
++Simple Offence Suppression SE
++Simple Offence Suppression MCM - Block Friendly Fire
++Simple Offence Suppression Block Friendly Fire - Add-on
++Staff Left Hand Animations
 +Apocalypse v945
 +Apocalypse - Ordinator Compatibility Patch
 +Smooth Random Blocking Animation 3.2
 +non-combat sneak idle
 +Cosmo-War Scythe
-+ESL High Poly Pretty Face and Darker Brows St
++ESL High Poly Pretty Face and Darker Brows Stand Alone
++Security Overhaul SKSE - Lock Variations
++Smooth low kick - Elbow Attack
++Unbearable Taunt Animation
++Tullius Wig Pack V3.7
++klear Odin Valhalla Rising Rogue 4002 CBBE 3BA SMP
++BearModernCombatOverhaul
++SabrecatModernCombatOverhaul
++Immersive folded hands (DAR) - Main download
++Fix blocking move
++HeelsFix
++Dusty Vampire Dust SE
++[dint999] BDOr Guardian Kharoxia Clothes v.1.01
++DM BDOR Darkborne Rose by Team TAL
++Nordic-ish - A Preset for TrueHUD based on Nordic UI
+-Projectiles - DXPMCO
++Praedy's Chantry of Auriel AIO - SE
++Female Outfit Replacer with Physics
++Vanilla Armor Replacer 3BA
+-3BA Vanilla Armors Clothes Overwrite
++JK's Skyrim all in one
++JK's Skyrim No Lights Patch
++Beautiful Cities SSE - JK's Skyrim Compatible - ESL
++Happy Little Trees
++Bow Charge Plus
++Bow Charge Plus Wind Effect
++Skyrim 3D Landscapes
++Skyrim 3D Landscapes Groundcovers 1k
++Cathedral - 3D Pine Grass - Full 3D Coverage
++Cathedral - 3D Pine Grass for ENB Complex Grass
++Origins Of Forest - 3D Forest Grass - less saturated
++Origins Of Forest - 3D Forest Grass Smaller
++Folkvangr - Grass and Landscape Overhaul
++Folkvangr for ENB Complex Grass
++Origins of Forest for ENB Complex Grass
++QW's Grass Patch 2
++QW Grass 2 for ENB Complex Grass Patch
++Telekinesis_wood_choping_SE_V1_for_PlayerCharacter
++TrueHUD reskin - Horizons UI
++ElSopa - Quivers Redone 1k SE
++Sounds of Skyrim Complete SE
++Combat Music Fix SKSE - SSE
 +Better Third Person Selection (SE)
 +SCAR - Skyrim Combos AI Revolution
 +Shoot Straight
@@ -272,6 +454,327 @@
 +Cathedral - 3D Nightshade
 +Cathedral - 3D Sword Ferns
 +The Omnibus Ground parallax texture - 2k
+-Nordic Snow 3.4.3
+-HD Nordic Snow with Parallax
+-Nordic snow - blended roads fix
++JS Common Cages SE - 2k Textures
++DAR Stagger NPC and Player Large stagger
++Smooth Fist Idle Animation
++3D Dagger and GLOW - ENB Light - 2k Door
++GS_animations SE
++FlinchingSSE
++elden rim 2.05
++Horsemen Torch Wield Fix and Mount Tweaks SE
++Elden Counter
++Disable Turn Animation SE
+-MCO ER moveset collection
++MCO Mirage Edge
++MCO AC Valhalla
++MCO Majima Dagger
++MCO ER KATANA
+-Trash OneHandedShieldAnimation Moveset for Skysa 1.9
++MCO Rapier(Armory)
++MCO ER Dual Wield AXE
++MCO ER twinblade SCAR Precision 0.5
++MCO ER Dual Wield Sword
++MCO ER Spear Basic Animation
++Ludwig's Legacy
++Judgement Cut End - ap05's Remake
++MCO Rapier Mix
++MCO unarmed moveset
+-MCO Anchor Animamtions package SE
++MCO veraflare MCO1.4.X above and 1.X Precision
+-MCO Twohand Animation
++Anchor MCO Animamtions package SE -v1.2.62
++Anchor_Sephiroth
++MCO Absolute Shrine of Vedir
++MCO Scythe eskyrim
++MGR SAM+boss
++MCO MGR sam Animation
++MCO For Honor in Skyrim I Gryphon Battleaxe
++BadAss Get-Up Combat only Version
++Additional Attack - SSE
++Smooth Bow Animation
++Precision Creatures
+-Irene_Follower
++Elden Parry SE
++Tools not weapons DAR animations
++Immersive Fallen Trees SSE
++Activation Animations
++Elven Weapon for Silence SE (Dark Obsidian) 2K
++ElSopa - Potions Redone 2k
++ElSopa - Potions Redone Patches
++ElSopa Potions Redone - Zxlices Ultimate potion animation patch
++ElSopa - Iron Weapons Redone 2k
++ElSopa - HD Better Bloody Rags 2k
++ElSopa - Azura's Star Redone 2k
++ElSopa - Azura's Star Redone - ENB Light by Mur4s4me
++ElSopa - HD Keys Redone 2k
++ElSopa Glorious HD Amulets 2k
++ElSopa - Creep Cluster 2k
++ElSopa HD - Briarheart Red 512
++ElSopa - Paper HD
++ElSopa - Silver Mold Redone
++Rally's Honey Pot HP
++Rallys Broom - Dirty
++Rallys Hanging Moss - Desaturated
++Rallys Riekling Outposts 2K
++Rally's Nord War Horns
++Rally's Civil War Document Tubes
++Rally's Crates
++Rally's Tel Mithryn 2K
++Rally's Handcarts
++Weathered Dark Elf Furniture Retexture - Brown - 2K
++Weathered Bars and Counters - 1 - Metal Strip - 2K
++Weathered Bars and Counters - Bar Stools Addon - 2K
++Weathered Buckets Retexture - 2K
++Weathered Apiary Texture - 2K
++Ave's Arkay Amulet
++Amulet of Mara by Ave
++Ave's Locket of Saint Jiub
++Fjotli's Silver Locket by Ave
++Garlic - A Garlic Mod
++4k Baskets Darker Version 2k
++KG's Elves Ear Replacer
++KG's Frost Mirriam
++Night mother replacer
++Husk Replacer - Pfuscher
++Cheese Wedge - Replacer
++Whiterun Bench - Replacer
++Pigeon Replacer
++Skeevertail Replacer Grey
++The Pure - CBBE v1.3.1
++Texture normal map
++Soaking Wet
++Insta-Cast Spell Ring
++RS Children Overhaul
+-UnblockableAttacks
++Hellblade - Timed Block v2.1
++Katana Crafting SE
++Face Discoloration Fix SE
++Nether's Follower Framework
++Oblivion Horses LE
++SC_HorseReplacer
++ImpactfulBlocking v1.4
++Equus - Horses Sounds Redesigned -
++Horse and Rider - animation and idle
++Lively cart driver animation replacer - SE or AE
++TB's Immersive Gryo 2K Performance SSE Variant
++TBsSunFlarewithGlare
++Rabbit Replacer
++Hanging Dead Rabbit Replacer
++Mihail's Rabbit Replacers - Optimized Textures
++Chicken Replacer
++More Chicken Variants
++Spider Sac 2k Replacer
++Mihail's Chickens - Cleaned Textures and Alt. Resolution Options
++Improved Dwemer Glass
++Dwemwe Glass Unofficial Material Fix Patch
++Improved Dwemer Glass - ENB lights for Aetherium shards Patch
++JS Dwemer Artifacts SE - 2k Textures
++JS Dwemer Ichor Barrels SE - 2k Textures
++JS Dwarven Oil SE - 2k Textures
++JS Dwemer Kitchenware SE - 2k Textures
++JS Unique Utopia SE - Daggers - 2k Textures
++JS Shrines of the Divines SE - 2K
++JS Instruments of Skyrim SE - 2k
++JS Dwemer Control Cube SE
++JS Torture Tools SE
++Clams HD
++Skyrim Objects SMIMed - Warmaiden's Holes
++Moveable Chain
++Better Blended Mushrooms
++Portcullis Collision Fix
++ER moveset collection(NPC)
++Splashes Of Storms
++Footprints 1.6.1
++Footprints - ENB
++SPID for Footprints
++Loki_WadeInWater
++Wade In Water Redone
+-Diamond Skin normal map
++Vindictive Alduin
++Vindictive Alduin - Devil
++Draugr Spear Animation
++Twinblades of Skyrim
++Nicos Twinblades SE
++TB's HD Cubemaps
++Bucket Enrichment
++Better Chests 2K Optimised SSE Version
++TB's Better Barrel for SMIM 2K SSE Version
++Better Telekinesis
++Kabu's Fire Salts 1k
++Kabu's Frost Salts 1k
++Rally's Display Cases
++Nordic Barnacle Redone
++High Poly Trama Roots
++Thicket Nettle Replacer
++High Poly Canticle Tree
++Slaughterfish - Retexture - Pfuscher
++Flame Atronach replacer
++Gold bar - Replacer
++ENBParticleLightsDwemerLanterns
++Meridia's Luxon Beacon
++Some Creature Behavior Bug Fixes
++More_powerful_mining_SE
++Magicka Plus Fix JP
++NoGrassias
++EldenRing twinblade
++EldenRing Spear
++EldenRing Nagakiba Katana
++EldenRing HeavyRapier
++[immyneedscake] Bloodborne Weapon Pack by Team TAL
++Hepsy Basic Wears SMP 3BA
++Dapper Deliveries - A Courier Overhaul
++Slightly Better EVIL Rock Cairns 2k
++Praedy's Staves AIO
++Praedy's Soul Cairn - SE
++Ideal master crystal mesh Praedy's Fix
++Praedy's repository - SE
++Praedy's Skeleton Replacer HD
++twilight princess armour Serana SPID
++Twilight Princess Armor Mashup
++[Predator] Lingerie Bodysuit 3BA
++[Witchy] Lore-Friendly Accessories SE
++[Witchy] Halloween Witch Hats SE
++[NINI] Dolphin
++[Predator] Simple but Elegant 2 3BA SE
++[Caenarvon] Cosplay Pack Ghosted
++Phoenix Soul - hdt SMP
++H2135s Pirate Series2 [SE] - 3BA
++Dovahnique's Diverse Deadly Nightshade - BOS - ENB Lights
++Dovahnique's Diverse Deathbells - Base Object Swapper
++[Weapon]Elden Ring - Greatsword And Zweihander
++Tullfx-Bloodstorm
++Sigils of Shalidor
++RaceCompatibility with fixes for SSE
++Just Blood
++Lurker Animation
++Riekling Animation
++Giant Animation Normal Speed
++Werewolf Animation
++Troll Animation
++Falmer Animation
++Frost Atronach Animation
++Dynamic Whirlwind Sprint
++Draugr One-handed Animation
++Playable Draugrs - SSE 1.01
++Draugr MCO enabled
++NPC Animation Remix (DAR) - main archive
++Gesture Animation Remix (DAR) - main archive
++HD Local Map
++DynamicAnimationCasting
++Legendary Alpha Shield 2 ESL
++Blade of Intrigue ENG SE
++Serana's Hood Fix with Animation
+-VIGILANT SEAE
+-VIGILANT SE High Resolution Textures Pack
+-VIGILANT Voiced - English Addon SE
++Glacierslab 4.2.2.5 B-Bumpy-Chiseled
++Water for ENB
++GKB Waves Reborn
++Majestic Mountains Main
++Majestic Mountains - More Accurate Collision
++1. Majestic Mountains Main 2k texture
++Simplicity of MM Custom PD
++ProjectedDiffuse Patch - Snow HD Texture Replacer with Parallax 2k
++Arctic - Frost Effects Redux
++3BA High Poly Underwear (with physics)
++OCPA - Delete Block Key
++[XuNianA] Xmas pack - CBBE 3BA
++Destined Death
++Skyrim 3D Driftwood 2K Optimised SSE Version
++Skyrim 3D Driftwood Optimised Meshes
++GoT and HotD - Vanilla Dragons Replacer
++GoT and HotD - Update
++GoT Dragons-Ally
++GoT Dragons-Enemy
++GoT Dragons-Skeleton
++GoT Dragons-Textures
++GoT Dragons 4k
++GoT Dragons Ally - Fixed Soul Absorb And Optimized
++GoT Dragons Enemy - Fixed Soul Absorb And Optimized
++GoT Dragons Textures - Fixed Soul Absorb And Optimized
++[Melodic] Sweet Romance - CBBE 3BA
++[COCO] Mysterious Mage [SE] - 3BA
++[immyneedscake] BDO Dark Knight Class Armor - Sin Terrna CBBE SSE (Cloth SMP)
++[Caenarvon] Cosplay Pack School Days
++Egil's Demon Hunter Templar 3BA
++Rivers of Blood and Moonveil
++MCO Katana
++dpillari moonsugar 2k
++dpillari sleeping tree 2k Enb light
++dp hd honeycomb 2k
++TMD Jars of Skyrim
++Better Butterflies 01
++Better Butterflies Monarch in a TMD Jar
+-MCO 1H aggressive Moveset
+-[AN] Cyber Club SE V2.0
+-Project Urban v0.5
+-Overlord Mod 1.15
+-Overlord fix Bones 1.0
++Ave's Saarthal Amulet
++Improved Table Transitions
++Paraglider Auto-Equip Tarhiel's Gale
++AnimTentacles4GlowingMushroom
++Look Around - Searching Animations For NPCs
++Flute Animation Fix
++PP_Frea
++Medieval Spirits
++VisualAnimatedEnchants2 SEAE version
++WiZkiD Specific Signs
++2-4k. New Female Draugr
++DX Atago SE 3BA
++RB's set N3 CBBE 3BA BodySlide - public version
++BBADDAGIRL
++Destroyer [SE] - CBBE
++Dead Thrall Animations
++The Great Artorias
+-Realistic Lighting Overhaul (RLO) SSE All-In-One Installer
++RUSTIC WINDOWS - Special Edition - 1K
++dpillari giant's toe 1k
++Casting Bar
++Fluffers - Christmas Outfit
++Ebony Damascus Blades
++MCO Raiden
++ERbrawlTempFix
++GSPoses SE 29 01
++MEMOSPORE - UI Sound Effects
++Saadia - High Poly Replacer
++Rally's Market Stalls
++GS Crossbow Animations
++GS One Handed Weapon Animations
++GS Two Handed Animations - Movement Only
++GS Bow Animations
++GS Dagger Animation SE
++GS Sneak Animations NG
++[Melodic] Halfcup Bikini 3BA
++Dark Mage of Plegia - hdt SMP (CBBE 3BA)
++Parallax Spell Impacts
+-Unslaad SE
+-BeyondReach 4.61 2022
+-Arnima_Dialogue Conditions Fix
+-Dark Forest of Skyrim SE - Beyond Reach - Main
+-Modpocalypse NPCs (v2) Beyond Reach
+-Elden Ring - Curved Greatswords
+-【Weapon】Elden ring - Commander's Standard
+-【Weapon】Elden Ring - Halberd
++Cinematik Kills
++A Quality World Map - Classic with All Roads
++DynDOLOD Resources SE
++DynDOLOD DLL SE - Scripts
++DynDOLOD DLL SE Plugin
++Majestic Mountains DynDoLod 3 Pack
++TexGen_Output
++DynDOLOD_Output
++Happy Little Trees 3D LOD - Performance
++Water for ENB Particle Patch
++Water Effects Brightness and Reflection Fix
+-Farm's PC Head Tracking B.Y.O - 2b's voice pack (reupload)
+-DynDOLOD Bright LOD Waterfall Fix
++ENB Light 0.98
++Xyn's Elemental Cloak Spells
++Rally's Torchbugs
 +SparklesSE
 +Seriously Improved Sparks
 -Madd Haven
